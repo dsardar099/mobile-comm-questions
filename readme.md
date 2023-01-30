@@ -1,3 +1,33 @@
+- [Q1. Compare between Switch, Router, Hub, Gateway, Bridge, Repeater.](#q1-compare-between-switch-router-hub-gateway-bridge-repeater)
+- [Q2. Difference between IEEE-802.3(Token Bus) \& IEEE-802.5(Token Ring).](#q2-difference-between-ieee-8023token-bus--ieee-8025token-ring)
+- [Q3. Compare CDMA and TDMA with their applications.](#q3-compare-cdma-and-tdma-with-their-applications)
+- [Q4. Explain- 'IP-Telephony must be compatible with PSTN'](#q4-explain--ip-telephony-must-be-compatible-with-pstn)
+- [Q5. Mention class ranges and default subnet values of different IPv4 classes.](#q5-mention-class-ranges-and-default-subnet-values-of-different-ipv4-classes)
+- [Q6. What do you mean by TCP header segment?](#q6-what-do-you-mean-by-tcp-header-segment)
+- [Q7. Explain mechanism of RSA with example.](#q7-explain-mechanism-of-rsa-with-example)
+- [Q8. Explain different types of cryptographic keys.](#q8-explain-different-types-of-cryptographic-keys)
+- [Q9. What is SIM number? Explain it's components.](#q9-what-is-sim-number-explain-its-components)
+- [Q10. Difference between 1g, 2g, 3g, 4g, 5g](#q10-difference-between-1g-2g-3g-4g-5g)
+- [Q11. Draw block diagram of mobile.](#q11-draw-block-diagram-of-mobile)
+- [Q12. What is Handoff? Explain it's types.](#q12-what-is-handoff-explain-its-types)
+- [Q13. Define the functionality of BTS, BSC, TMSC, HLR, VLR, MSC, GMSC.](#q13-define-the-functionality-of-bts-bsc-tmsc-hlr-vlr-msc-gmsc)
+- [Q14. Difference between connection oriented(TCP) and connection less(UDP) protocol.](#q14-difference-between-connection-orientedtcp-and-connection-lessudp-protocol)
+- [Q16. What do you mean by ICMP and IGMP?](#q16-what-do-you-mean-by-icmp-and-igmp)
+- [Q17. Compare FDMA and CDMA.](#q17-compare-fdma-and-cdma)
+- [Q18. Compare FDMA and TDMA.](#q18-compare-fdma-and-tdma)
+- [Q19. Compare TDMA and CDMA.](#q19-compare-tdma-and-cdma)
+- [Q20. what is cell number(Honey Bee model)?](#q20-what-is-cell-numberhoney-bee-model)
+- [Q21. What is the Principle of reusability in mobile communication?](#q21-what-is-the-principle-of-reusability-in-mobile-communication)
+- [Q22. What is the Principle of frequency of reuse in mobile communication?](#q22-what-is-the-principle-of-frequency-of-reuse-in-mobile-communication)
+- [Q23. What is the optimum number of mobile cells?](#q23-what-is-the-optimum-number-of-mobile-cells)
+- [Q24. What is plain text and cipher text?](#q24-what-is-plain-text-and-cipher-text)
+- [Q25. What do you mean by chip sequence in CDMA. Explain briefly.](#q25-what-do-you-mean-by-chip-sequence-in-cdma-explain-briefly)
+- [Q26. Show signal strength of CDMA for 4 stations with chip sequence \[+1 +1 -1 +1\].](#q26-show-signal-strength-of-cdma-for-4-stations-with-chip-sequence-1-1--1-1)
+- [Q27. Explain components of DHCP.](#q27-explain-components-of-dhcp)
+- [Q28. Difference between different ALOHA.](#q28-difference-between-different-aloha)
+- [Q29. Draw flowchart of CSMA/CD and CSMA/CA](#q29-draw-flowchart-of-csmacd-and-csmaca)
+
+
 # Q1. Compare between Switch, Router, Hub, Gateway, Bridge, Repeater.
 
 | **Device**   | **Function**                                                                          | **Data Transfer** | **Network Segmentation** | **Features**                                                                                                                                                                             |
